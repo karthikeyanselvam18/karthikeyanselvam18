@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyanselvam18&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeyanselvam18" /> </p>
 
-- 🌐 [My Portfolio](https://karthikeyanselvam18.github.io/portfolio/)
+- 🌐 Click to see [My Portfolio](https://karthikeyanselvam18.github.io/portfolio/)
 
 - 🔭 I’m currently working on [amazon-website-clone](https://github.com/karthikeyanselvam18/amazon-website)
 

@@ -5,13 +5,13 @@
 
 - 🌐 Click to see [My Portfolio](https://ks18-portfolio.netlify.app/)
 
-- 🔭 I’m currently working on [amazon-website-clone](https://github.com/karthikeyanselvam18/amazon-website)
+- 🔭 I’m currently working on [random-joke-generator](https://github.com/karthikeyanselvam18/random-joke-generator-app)
 
-- 🌱 I’m currently learning **React framework**
+- 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karthikeyanselvam18](https://github.com/karthikeyanselvam18)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Java**
+- 💬 Ask me about **HTML, CSS, Sass, JavaScript, ReactJs and Java**
 
 - 📫 How to reach me **karthikeyanselvam18@gmail.com**
 
